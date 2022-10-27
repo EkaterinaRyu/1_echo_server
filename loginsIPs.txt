@@ -1,0 +1,4 @@
+127.0.1.1:hikup
+127.0.2.1:ekaterina
+127.0.3.1:lulu
+127.0.0.1:marinett
